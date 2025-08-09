@@ -173,7 +173,11 @@ cython_debug/
 #  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
+<<<<<<< HEAD
 .idea/
+=======
+#.idea/
+>>>>>>> b78572492c4af8183d7d8068979d7576afb1cc2b
 
 # Abstra
 # Abstra is an AI-powered process automation framework.
@@ -182,9 +186,15 @@ cython_debug/
 .abstra/
 
 # Visual Studio Code
+<<<<<<< HEAD
 #  Visual Studio Code specific template is maintained in a separate VisualStudioCode.gitignore
 #  that can be found at https://github.com/github/gitignore/blob/main/Global/VisualStudioCode.gitignore
 #  and can be added to the global gitignore or merged into this file. However, if you prefer,
+=======
+#  Visual Studio Code specific template is maintained in a separate VisualStudioCode.gitignore 
+#  that can be found at https://github.com/github/gitignore/blob/main/Global/VisualStudioCode.gitignore
+#  and can be added to the global gitignore or merged into this file. However, if you prefer, 
+>>>>>>> b78572492c4af8183d7d8068979d7576afb1cc2b
 #  you could uncomment the following to ignore the entire vscode folder
 # .vscode/
 
@@ -213,4 +223,9 @@ __pycache__/
 .Python
 .env
 trends.db
+<<<<<<< HEAD
 .venv/
+=======
+.venv/
+
+>>>>>>> b78572492c4af8183d7d8068979d7576afb1cc2b
